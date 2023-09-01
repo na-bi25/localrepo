@@ -1,1 +1,1 @@
-# This is my local repo
+# Learnng the basic terms used in Git and Github
